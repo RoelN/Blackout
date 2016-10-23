@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.0">
+
+  <GlyphOrder>
+    <!-- The 'id' attribute is only for humans; it is ignored when parsed. -->
+    <GlyphID id="0" name=".notdef"/>
+    <GlyphID id="1" name="blackout"/>
+  </GlyphOrder>
+
+  <head>
+    <!-- Most of this table will be recalculated by the compiler -->
+    <tableVersion value="1.0"/>
+    <fontRevision value="1.0"/>
+    <checkSumAdjustment value="0xdad76f45"/>
+    <magicNumber value="0x5f0f3cf5"/>
+    <flags value="00000000 00000000"/>
+    <unitsPerEm value="256"/>
+    <created value="Fri Oct 17 07:55:23 2014"/>
+    <modified value="Wed Sep 28 14:22:56 2016"/>
+    <xMin value="-16383"/>
+    <yMin value="-16383"/>
+    <xMax value="16383"/>
+    <yMax value="16383"/>
+    <macStyle value="00000000 00000000"/>
+    <lowestRecPPEM value="0"/>
+    <fontDirectionHint value="2"/>
+    <indexToLocFormat value="0"/>
+    <glyphDataFormat value="0"/>
+  </head>
+
+  <hhea>
+    <tableVersion value="1.0"/>
+    <ascent value="0"/>
+    <descent value="0"/>
+    <lineGap value="0"/>
+    <advanceWidthMax value="16383"/>
+    <minLeftSideBearing value="0"/>
+    <minRightSideBearing value="-31742"/>
+    <xMaxExtent value="32766"/>
+    <caretSlopeRise value="1"/>
+    <caretSlopeRun value="0"/>
+    <caretOffset value="0"/>
+    <reserved0 value="0"/>
+    <reserved1 value="0"/>
+    <reserved2 value="0"/>
+    <reserved3 value="0"/>
+    <metricDataFormat value="0"/>
+    <numberOfHMetrics value="2"/>
+  </hhea>
+
+  <maxp>
+    <!-- Most of this table will be recalculated by the compiler -->
+    <tableVersion value="0x10000"/>
+    <numGlyphs value="2"/>
+    <maxPoints value="4"/>
+    <maxContours value="1"/>
+    <maxCompositePoints value="0"/>
+    <maxCompositeContours value="0"/>
+    <maxZones value="0"/>
+    <maxTwilightPoints value="0"/>
+    <maxStorage value="0"/>
+    <maxFunctionDefs value="0"/>
+    <maxInstructionDefs value="0"/>
+    <maxStackElements value="0"/>
+    <maxSizeOfInstructions value="0"/>
+    <maxComponentElements value="0"/>
+    <maxComponentDepth value="0"/>
+  </maxp>
+
+  <OS_2>
+    <!-- The fields 'usFirstCharIndex' and 'usLastCharIndex'
+         will be recalculated by the compiler -->
+    <version value="0"/>
+    <xAvgCharWidth value="0"/>
+    <usWeightClass value="100"/>
+    <usWidthClass value="1"/>
+    <fsType value="00000000 00000000"/>
+    <ySubscriptXSize value="0"/>
+    <ySubscriptYSize value="0"/>
+    <ySubscriptXOffset value="0"/>
+    <ySubscriptYOffset value="0"/>
+    <ySuperscriptXSize value="0"/>
+    <ySuperscriptYSize value="0"/>
+    <ySuperscriptXOffset value="0"/>
+    <ySuperscriptYOffset value="0"/>
+    <yStrikeoutSize value="0"/>
+    <yStrikeoutPosition value="0"/>
+    <sFamilyClass value="0"/>
+    <panose>
+      <bFamilyType value="0"/>
+      <bSerifStyle value="0"/>
+      <bWeight value="0"/>
+      <bProportion value="0"/>
+      <bContrast value="0"/>
+      <bStrokeVariation value="0"/>
+      <bArmStyle value="0"/>
+      <bLetterForm value="0"/>
+      <bMidline value="0"/>
+      <bXHeight value="0"/>
+    </panose>
+    <ulUnicodeRange1 value="00000000 00000000 00000000 00000000"/>
+    <ulUnicodeRange2 value="00000000 00000000 00000000 00000000"/>
+    <ulUnicodeRange3 value="00000000 00000000 00000000 00000000"/>
+    <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
+    <achVendID value="\x00\x00\x00\x00"/>
+    <fsSelection value="00000000 00000000"/>
+    <usFirstCharIndex value="64"/>
+    <usLastCharIndex value="64"/>
+    <sTypoAscender value="0"/>
+    <sTypoDescender value="0"/>
+    <sTypoLineGap value="0"/>
+    <usWinAscent value="0"/>
+    <usWinDescent value="0"/>
+  </OS_2>
+
+  <hmtx>
+    <mtx name=".notdef" width="0" lsb="0"/>
+    <mtx name="blackout" width="256" lsb="-16383"/>
+  </hmtx>
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x41" name="blackout"/>
+      <map code="0x42" name="blackout"/>
+      <map code="0x43" name="blackout"/>
+      <map code="0x44" name="blackout"/>
+      <map code="0x45" name="blackout"/>
+      <map code="0x46" name="blackout"/>
+      <map code="0x47" name="blackout"/>
+      <map code="0x48" name="blackout"/>
+      <map code="0x49" name="blackout"/>
+      <map code="0x4a" name="blackout"/>
+      <map code="0x4b" name="blackout"/>
+      <map code="0x4c" name="blackout"/>
+      <map code="0x4d" name="blackout"/>
+      <map code="0x4e" name="blackout"/>
+      <map code="0x4f" name="blackout"/>
+      <map code="0x50" name="blackout"/>
+      <map code="0x51" name="blackout"/>
+      <map code="0x52" name="blackout"/>
+      <map code="0x53" name="blackout"/>
+      <map code="0x54" name="blackout"/>
+      <map code="0x55" name="blackout"/>
+      <map code="0x56" name="blackout"/>
+      <map code="0x57" name="blackout"/>
+      <map code="0x58" name="blackout"/>
+      <map code="0x59" name="blackout"/>
+      <map code="0x5a" name="blackout"/>
+      <map code="0x61" name="blackout"/>
+      <map code="0x62" name="blackout"/>
+      <map code="0x63" name="blackout"/>
+      <map code="0x64" name="blackout"/>
+      <map code="0x65" name="blackout"/>
+      <map code="0x66" name="blackout"/>
+      <map code="0x67" name="blackout"/>
+      <map code="0x68" name="blackout"/>
+      <map code="0x69" name="blackout"/>
+      <map code="0x6a" name="blackout"/>
+      <map code="0x6b" name="blackout"/>
+      <map code="0x6c" name="blackout"/>
+      <map code="0x6d" name="blackout"/>
+      <map code="0x6e" name="blackout"/>
+      <map code="0x6f" name="blackout"/>
+      <map code="0x70" name="blackout"/>
+      <map code="0x71" name="blackout"/>
+      <map code="0x72" name="blackout"/>
+      <map code="0x73" name="blackout"/>
+      <map code="0x74" name="blackout"/>
+      <map code="0x75" name="blackout"/>
+      <map code="0x76" name="blackout"/>
+      <map code="0x77" name="blackout"/>
+      <map code="0x78" name="blackout"/>
+      <map code="0x79" name="blackout"/>
+      <map code="0x7a" name="blackout"/>
+    </cmap_format_4>
+  </cmap>
+
+  <loca>
+    <!-- The 'loca' table will be calculated by the compiler -->
+  </loca>
+
+  <glyf>
+
+    <!-- The xMin, yMin, xMax and yMax values
+         will be recalculated by the compiler. -->
+
+    <TTGlyph name=".notdef"/><!-- contains no outline data -->
+
+    <TTGlyph name="blackout" xMin="-16383" yMin="-16383" xMax="16383" yMax="16383">
+      <contour>
+        <pt x="-16383" y="16383" on="1"/>
+        <pt x="16383" y="16383" on="1"/>
+        <pt x="16383" y="-16383" on="1"/>
+        <pt x="-16383" y="-16383" on="1"/>
+      </contour>
+      <instructions><assembly>
+        </assembly></instructions>
+    </TTGlyph>
+
+  </glyf>
+
+  <name>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      PixelAmbacht Blackout
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      PixelAmbacht Blackout
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      PixelAmbacht Blackout
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      PixelAmbacht Blackout
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      PixelAmbacht Blackout
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      PixelAmbacht Blackout
+    </namerecord>
+    <namerecord nameID="10" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      PixelAmbacht Blackout
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      PixelAmbacht Blackout
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      PixelAmbacht Blackout
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      PixelAmbacht Blackout
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      PixelAmbacht Blackout
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      PixelAmbacht Blackout
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      PixelAmbacht Blackout
+    </namerecord>
+    <namerecord nameID="10" platformID="3" platEncID="1" langID="0x409">
+      PixelAmbacht Blackout
+    </namerecord>
+  </name>
+
+  <post>
+    <formatType value="3.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="0"/>
+    <underlineThickness value="0"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+  </post>
+
+</ttFont>

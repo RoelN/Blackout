@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>PixelAmbacht Blackout</title>
+  <style>
+  @font-face {
+    font-family: PixelAmbachtBlackout;
+    src: url('./blackout-nano.ttf?v=123');
+  }
+  html, body {
+    height: 100%;
+  }
+  body {
+    background: deeppink;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  div {
+    text-align: center;
+  }
+  .blackout-info {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 2em;
+    color: white;
+  }
+  .blackout-container {
+    background: lime;
+  }
+  .blackout {
+    font-family: PixelAmbachtBlackout;
+  }
+  </style>
+  <script>
+  document.addEventListener('click', function(e) {
+    document.querySelectorAll('.blackout-container')[0].classList.toggle('blackout');
+  });
+  </script>
+</head>
+<body>
+  <div class="blackout-info">
+    <strong>Click anywhere to turn PixelAmbacht Blackout on or off in the green square!</strong>
+    <br>
+    <small>(Be warned, this might take a minute!)</small>
+  </div>
+  <div class="blackout-container">x</div>
+</body>
+</html>
