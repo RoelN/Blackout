@@ -12,15 +12,12 @@
   }
   body {
     background: deeppink;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
   }
   div {
+    position: absolute;
     text-align: center;
   }
   .blackout-info {
-    position: absolute;
     top: 0;
     left: 0;
     right: 0;
@@ -31,6 +28,9 @@
     color: inherit;
   }
   .blackout-container {
+    left: 0;
+    right: 0;
+    top: 50%;
     background: lime;
   }
   .blackout {
@@ -38,16 +38,20 @@
   }
   </style>
   <script>
-  document.addEventListener('click', function(e) {
+  document.addEventListener('click', blackout);
+  document.addEventListener('touchstart', blackout);
+  function blackout(e) {
+    e.preventDefault();
+    e.stopPropagation();
     document.querySelectorAll('.blackout-container')[0].classList.toggle('blackout');
-  });
+  }
   </script>
 </head>
 <body>
   <div class="blackout-info">
     <strong>Click anywhere to turn PixelAmbacht Blackout on or off in the green square!</strong>
     <br>
-    <small>(Be warned, this might take a minute!) <a href="https://github.com/RoelN/Blackout">More info</a></small>
+    <small>(Be warned, this might take a minute!) <a href="https://github.com/RoelN/Blackout">What's going on here?!</a></small>
   </div>
   <div class="blackout-container">x</div>
 </body>
