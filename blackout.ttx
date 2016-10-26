@@ -121,58 +121,16 @@
   <cmap>
     <tableVersion version="0"/>
     <cmap_format_4 platformID="3" platEncID="1" language="0">
-      <map code="0x41" name="blackout"/>
-      <map code="0x42" name="blackout"/>
-      <map code="0x43" name="blackout"/>
-      <map code="0x44" name="blackout"/>
-      <map code="0x45" name="blackout"/>
-      <map code="0x46" name="blackout"/>
-      <map code="0x47" name="blackout"/>
-      <map code="0x48" name="blackout"/>
-      <map code="0x49" name="blackout"/>
-      <map code="0x4a" name="blackout"/>
-      <map code="0x4b" name="blackout"/>
-      <map code="0x4c" name="blackout"/>
-      <map code="0x4d" name="blackout"/>
-      <map code="0x4e" name="blackout"/>
-      <map code="0x4f" name="blackout"/>
-      <map code="0x50" name="blackout"/>
-      <map code="0x51" name="blackout"/>
-      <map code="0x52" name="blackout"/>
-      <map code="0x53" name="blackout"/>
-      <map code="0x54" name="blackout"/>
-      <map code="0x55" name="blackout"/>
-      <map code="0x56" name="blackout"/>
-      <map code="0x57" name="blackout"/>
-      <map code="0x58" name="blackout"/>
-      <map code="0x59" name="blackout"/>
-      <map code="0x5a" name="blackout"/>
-      <map code="0x61" name="blackout"/>
-      <map code="0x62" name="blackout"/>
-      <map code="0x63" name="blackout"/>
-      <map code="0x64" name="blackout"/>
-      <map code="0x65" name="blackout"/>
-      <map code="0x66" name="blackout"/>
-      <map code="0x67" name="blackout"/>
-      <map code="0x68" name="blackout"/>
-      <map code="0x69" name="blackout"/>
-      <map code="0x6a" name="blackout"/>
-      <map code="0x6b" name="blackout"/>
-      <map code="0x6c" name="blackout"/>
-      <map code="0x6d" name="blackout"/>
-      <map code="0x6e" name="blackout"/>
-      <map code="0x6f" name="blackout"/>
-      <map code="0x70" name="blackout"/>
-      <map code="0x71" name="blackout"/>
-      <map code="0x72" name="blackout"/>
-      <map code="0x73" name="blackout"/>
-      <map code="0x74" name="blackout"/>
-      <map code="0x75" name="blackout"/>
-      <map code="0x76" name="blackout"/>
-      <map code="0x77" name="blackout"/>
-      <map code="0x78" name="blackout"/>
-      <map code="0x79" name="blackout"/>
-      <map code="0x7a" name="blackout"/>
+      <map code="0x41" name="blackout"/> <!-- a -->
+      <map code="0x45" name="blackout"/> <!-- e -->
+      <map code="0x49" name="blackout"/> <!-- i -->
+      <map code="0x4f" name="blackout"/> <!-- o -->
+      <map code="0x55" name="blackout"/> <!-- u -->
+      <map code="0x61" name="blackout"/> <!-- A -->
+      <map code="0x65" name="blackout"/> <!-- E -->
+      <map code="0x69" name="blackout"/> <!-- I -->
+      <map code="0x6f" name="blackout"/> <!-- O -->
+      <map code="0x75" name="blackout"/> <!-- U -->
     </cmap_format_4>
   </cmap>
 
@@ -201,6 +159,9 @@
   </glyf>
 
   <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      PixelAmbacht Blackout
+    </namerecord>
     <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0" unicode="True">
       PixelAmbacht Blackout
     </namerecord>
@@ -219,7 +180,10 @@
     <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
       PixelAmbacht Blackout
     </namerecord>
-    <namerecord nameID="10" platformID="1" platEncID="0" langID="0x0" unicode="True">
+    <namerecord nameID="14" platformID="1" platEncID="0" langID="0x0" unicode="True">
+      PixelAmbacht Blackout
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
       PixelAmbacht Blackout
     </namerecord>
     <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
@@ -240,7 +204,7 @@
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       PixelAmbacht Blackout
     </namerecord>
-    <namerecord nameID="10" platformID="3" platEncID="1" langID="0x409">
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
       PixelAmbacht Blackout
     </namerecord>
   </name>
