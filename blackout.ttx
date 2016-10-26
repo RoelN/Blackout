@@ -32,8 +32,8 @@
 
   <hhea>
     <tableVersion value="1.0"/>
-    <ascent value="0"/>
-    <descent value="0"/>
+    <ascent value="256"/>
+    <descent value="256"/>
     <lineGap value="0"/>
     <advanceWidthMax value="256"/>
     <minLeftSideBearing value="-16383"/>
@@ -73,7 +73,7 @@
     <!-- The fields 'usFirstCharIndex' and 'usLastCharIndex'
          will be recalculated by the compiler -->
     <version value="1"/>
-    <xAvgCharWidth value="256"/>
+    <xAvgCharWidth value="192"/>
     <usWeightClass value="100"/>
     <usWidthClass value="1"/>
     <fsType value="00000000 00000000"/>
@@ -108,7 +108,7 @@
     <fsSelection value="00000000 00000000"/>
     <usFirstCharIndex value="65"/>
     <usLastCharIndex value="65"/>
-    <sTypoAscender value="0"/>
+    <sTypoAscender value="256"/>
     <sTypoDescender value="0"/>
     <sTypoLineGap value="0"/>
     <usWinAscent value="0"/>
@@ -440,52 +440,52 @@
 
   <name>
     <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      PixelAmbacht Blackout
+      PixelAmbachtBlackout
     </namerecord>
     <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      PixelAmbacht Blackout
+      PixelAmbachtBlackout
     </namerecord>
     <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      PixelAmbacht Blackout
+      PixelAmbachtBlackout
     </namerecord>
     <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      PixelAmbacht Blackout
+      PixelAmbachtBlackout
     </namerecord>
     <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      PixelAmbacht Blackout
+      PixelAmbachtBlackout
     </namerecord>
     <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      PixelAmbacht Blackout
+      PixelAmbachtBlackout
     </namerecord>
     <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
       PixelAmbachtBlackout
     </namerecord>
     <namerecord nameID="14" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      PixelAmbacht Blackout
+      PixelAmbachtBlackout
     </namerecord>
     <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
-      PixelAmbacht Blackout
+      PixelAmbachtBlackout
     </namerecord>
     <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
-      PixelAmbacht Blackout
+      PixelAmbachtBlackout
     </namerecord>
     <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
-      PixelAmbacht Blackout
+      PixelAmbachtBlackout
     </namerecord>
     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
-      PixelAmbacht Blackout
+      PixelAmbachtBlackout
     </namerecord>
     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
-      PixelAmbacht Blackout
+      PixelAmbachtBlackout
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      PixelAmbacht Blackout
+      PixelAmbachtBlackout
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       PixelAmbachtBlackout
     </namerecord>
     <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
-      PixelAmbacht Blackout
+      PixelAmbachtBlackout
     </namerecord>
   </name>
 
