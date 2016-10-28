@@ -33,7 +33,7 @@
   <hhea>
     <tableVersion value="1.0"/>
     <ascent value="256"/>
-    <descent value="256"/>
+    <descent value="-256"/>
     <lineGap value="0"/>
     <advanceWidthMax value="256"/>
     <minLeftSideBearing value="-16383"/>
@@ -64,7 +64,7 @@
     <maxFunctionDefs value="0"/>
     <maxInstructionDefs value="0"/>
     <maxStackElements value="0"/>
-    <maxSizeOfInstructions value="46"/>
+    <maxSizeOfInstructions value="0"/>
     <maxComponentElements value="0"/>
     <maxComponentDepth value="0"/>
   </maxp>
@@ -111,8 +111,8 @@
     <sTypoAscender value="256"/>
     <sTypoDescender value="0"/>
     <sTypoLineGap value="0"/>
-    <usWinAscent value="0"/>
-    <usWinDescent value="0"/>
+    <usWinAscent value="256"/>
+    <usWinDescent value="256"/>
     <ulCodePageRange1 value="00000000 00000000 00000000 00000001"/>
     <ulCodePageRange2 value="00000000 00000000 00000000 00000000"/>
   </OS_2>
@@ -455,7 +455,7 @@
       PixelAmbachtBlackout
     </namerecord>
     <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
-      PixelAmbachtBlackout
+      Version 1.0
     </namerecord>
     <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
       PixelAmbachtBlackout
@@ -479,7 +479,7 @@
       PixelAmbachtBlackout
     </namerecord>
     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-      PixelAmbachtBlackout
+      Version 1.0
     </namerecord>
     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
       PixelAmbachtBlackout
