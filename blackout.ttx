@@ -19,8 +19,8 @@
     <unitsPerEm value="256"/>
     <created value="Fri Oct 17 07:55:23 2014"/>
     <modified value="Wed Oct 26 05:40:12 2016"/>
-    <xMin value="-16383"/>
-    <yMin value="-16383"/>
+    <xMin value="-16384"/>
+    <yMin value="-16384"/>
     <xMax value="16383"/>
     <yMax value="16383"/>
     <macStyle value="00000000 00000000"/>
@@ -36,7 +36,7 @@
     <descent value="-256"/>
     <lineGap value="0"/>
     <advanceWidthMax value="256"/>
-    <minLeftSideBearing value="-16383"/>
+    <minLeftSideBearing value="-16384"/>
     <minRightSideBearing value="-16127"/>
     <xMaxExtent value="16383"/>
     <caretSlopeRise value="1"/>
@@ -120,7 +120,7 @@
   <hmtx>
     <mtx name=".notdef" width="256" lsb="8"/>
     <mtx name=".null" width="0" lsb="0"/>
-    <mtx name="A" width="256" lsb="-16383"/>
+    <mtx name="A" width="256" lsb="-16384"/>
     <mtx name="nonmarkingreturn" width="256" lsb="0"/>
   </hmtx>
 
@@ -423,12 +423,12 @@
 
     <TTGlyph name=".null"/><!-- contains no outline data -->
 
-    <TTGlyph name="A" xMin="-16383" yMin="-16383" xMax="16383" yMax="16383">
+    <TTGlyph name="A" xMin="-16384" yMin="-16384" xMax="16383" yMax="16383">
       <contour>
-        <pt x="-16383" y="16383" on="1"/>
+        <pt x="-16384" y="16383" on="1"/>
         <pt x="16383" y="16383" on="1"/>
-        <pt x="16383" y="-16383" on="1"/>
-        <pt x="-16383" y="-16383" on="1"/>
+        <pt x="16383" y="-16384" on="1"/>
+        <pt x="-16384" y="-16384" on="1"/>
       </contour>
       <instructions><assembly>
         </assembly></instructions>
